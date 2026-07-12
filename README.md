@@ -11,7 +11,7 @@ line-sticker-vault/
 ├── registry/sticker-registry.json   # same schema as Sprite-Animator
 ├── characters/{slug}/
 │   ├── meta.json
-│   └── character-ref.png
+│   └── character-ref.webp
 └── sets/{set-id}/
     ├── meta.json
     └── phrase-set.json
@@ -47,7 +47,7 @@ Disable vault: `--no-vault`
 
 ## Git LFS
 
-Character PNGs are tracked with Git LFS (see `.gitattributes`). After clone:
+Character reference images are stored as **WebP** (`character-ref.webp`) and tracked with Git LFS (see `.gitattributes`). After clone:
 
 ```bash
 git lfs install
