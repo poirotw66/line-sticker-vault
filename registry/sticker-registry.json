@@ -1,4 +1,18 @@
 {
   "version": 1,
-  "entries": []
+  "entries": [
+    {
+      "id": "SET-20260712-001",
+      "date": "2026-07-12",
+      "batchType": "B",
+      "characterName": "星願花貓",
+      "characterConcept": "三花貓仰望星空的治癒系角色，水彩手繪、花冠野花與四角星元素，源自 bloom 參考圖",
+      "style": "watercolor",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/bloom-calico/character-ref.webp",
+      "outputDir": "sets/SET-20260712-001",
+      "status": "completed"
+    }
+  ]
 }
