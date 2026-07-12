@@ -1,0 +1,16 @@
+{
+  "format": "line-sticker-set",
+  "version": 1,
+  "id": "SET-19700101-031",
+  "date": "1970-01-01",
+  "batchType": "B",
+  "characterSlug": "twice-7-set4",
+  "characterName": "馬尾校服：花語心",
+  "theme": "daily",
+  "voice": "nishimura",
+  "style": "chibi",
+  "status": "completed",
+  "characterRefPath": "characters/twice-7-set4/character-ref.png",
+  "archivedAt": "2026-07-12T08:16:46.212Z",
+  "sourceOutputDir": "output/twice-7-set4"
+}

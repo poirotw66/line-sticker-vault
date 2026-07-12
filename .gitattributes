@@ -1,0 +1,5 @@
+# Character reference sheets and optional set previews
+characters/** filter=lfs diff=lfs merge=lfs -text
+sets/**/*.png filter=lfs diff=lfs merge=lfs -text
+sets/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+sets/**/*.webp filter=lfs diff=lfs merge=lfs -text

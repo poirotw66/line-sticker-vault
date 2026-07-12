@@ -1,0 +1,16 @@
+{
+  "format": "line-sticker-set",
+  "version": 1,
+  "id": "SET-19700101-034",
+  "date": "1970-01-01",
+  "batchType": "A",
+  "characterSlug": "twice-7-school-daily",
+  "characterName": "校園日常",
+  "theme": "daily",
+  "voice": "nishimura",
+  "style": "chibi",
+  "status": "completed",
+  "characterRefPath": "characters/twice-7-school-daily/character-ref.png",
+  "archivedAt": "2026-07-12T08:16:46.234Z",
+  "sourceOutputDir": "output/twice-1-school-daily"
+}

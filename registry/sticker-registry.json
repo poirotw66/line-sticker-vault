@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "SET-19700101-031",
+      "date": "1970-01-01",
+      "batchType": "B",
+      "characterName": "馬尾校服：花語心",
+      "characterConcept": "馬尾校服：花語心情篇",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/twice-7-set4/character-ref.png",
+      "outputDir": "sets/SET-19700101-031",
+      "status": "completed"
+    },
+    {
+      "id": "SET-19700101-032",
+      "date": "1970-01-01",
+      "batchType": "B",
+      "characterName": "校園日常",
+      "characterConcept": "校園日常·俏皮篇",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/twice-7-school-daily/character-ref.png",
+      "outputDir": "sets/SET-19700101-032",
+      "status": "completed"
+    },
+    {
+      "id": "SET-19700101-033",
+      "date": "1970-01-01",
+      "batchType": "A",
+      "characterName": "校園日常",
+      "characterConcept": "校園日常·俏皮篇",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/twice-7-school-daily/character-ref.png",
+      "outputDir": "sets/SET-19700101-033",
+      "status": "completed"
+    },
+    {
+      "id": "SET-19700101-034",
+      "date": "1970-01-01",
+      "batchType": "A",
+      "characterName": "校園日常",
+      "characterConcept": "校園日常·俏皮篇",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/twice-7-school-daily/character-ref.png",
+      "outputDir": "sets/SET-19700101-034",
+      "status": "completed"
+    },
+    {
+      "id": "SET-19700101-035",
+      "date": "1970-01-01",
+      "batchType": "A",
+      "characterName": "校園日常",
+      "characterConcept": "校園日常·俏皮篇",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/twice-7-school-daily/character-ref.png",
+      "outputDir": "sets/SET-19700101-035",
+      "status": "completed"
+    },
+    {
+      "id": "SET-19700101-036",
+      "date": "1970-01-01",
+      "batchType": "B",
+      "characterName": "狐耳舞棍舞王",
+      "characterConcept": "狐耳舞棍舞王",
+      "style": "chibi",
+      "theme": "daily",
+      "voice": "nishimura",
+      "refImagePath": "characters/street-graffiti-fox/character-ref.png",
+      "outputDir": "sets/SET-19700101-036",
+      "status": "completed"
+    },
+    {
+      "id": "SET-20260712smoke-001",
+      "date": "2026-07-12-smoke",
+      "batchType": "B",
+      "characterName": "廢廢菇",
+      "characterConcept": "一朵長了兩隻豆豆眼與細長手腳、總是用各種崩壞表情演繹網路迷因的懶散蘑菇，最大特色是頭頂的菌傘會隨著當下的梗圖情緒而變形或冒出對應的特效符號。",
+      "style": "yurukawa",
+      "theme": "meme",
+      "voice": "nishimura",
+      "refImagePath": "characters/char-20260712smoke-001/character-ref.png",
+      "outputDir": "sets/SET-20260712smoke-001",
+      "status": "completed"
+    }
+  ]
+}

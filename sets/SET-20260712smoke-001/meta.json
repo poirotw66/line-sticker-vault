@@ -1,0 +1,16 @@
+{
+  "format": "line-sticker-set",
+  "version": 1,
+  "id": "SET-20260712smoke-001",
+  "date": "2026-07-12-smoke",
+  "batchType": "B",
+  "characterSlug": "char-20260712smoke-001",
+  "characterName": "廢廢菇",
+  "theme": "meme",
+  "voice": "nishimura",
+  "style": "yurukawa",
+  "status": "completed",
+  "characterRefPath": "characters/char-20260712smoke-001/character-ref.png",
+  "archivedAt": "2026-07-12T08:16:46.249Z",
+  "sourceOutputDir": "output/2026-07-12-smoke/set-01"
+}
